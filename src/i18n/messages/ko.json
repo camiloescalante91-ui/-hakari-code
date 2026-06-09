@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "services": "서비스",
+    "portfolio": "포트폴리오",
+    "contact": "문의"
+  },
+  "hero": {
+    "title": "HAKARI CODE 🥷⚡",
+    "subtitle": "전문 기술 솔루션",
+    "cta": "문의하기"
+  },
+  "services": {
+    "web": "웹 개발",
+    "software": "엔터프라이즈 소프트웨어",
+    "mobile": "모바일 개발",
+    "design": "UX/UI 디자인",
+    "infrastructure": "인프라",
+    "marketing": "디지털 마케팅",
+    "sports": "스포츠 시스템"
+  },
+  "pricing": {
+    "landing": "랜딩 페이지",
+    "website": "기업 웹사이트",
+    "ecommerce": "가상 상점",
+    "design": "UX/UI 디자인",
+    "app": "모바일 앱",
+    "system": "엔터프라이즈 시스템"
+  },
+  "contact": {
+    "title": "비즈니스를 변환할 준비가 되셨습니까?",
+    "whatsapp": "WhatsApp으로 문의하기"
+  }
+}
